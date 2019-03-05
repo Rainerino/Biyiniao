@@ -10,6 +10,10 @@
 
 > Get CLion to work: https://docs.platformio.org/en/latest/ide/clion.html
 
+#### Command LIst
+|command |purpose| comments|
+|---|---|---|
+|platformio device monitor -b 115200| defaut is 960|With IMU reading, it reads continuously. But the serial monitor on Clion has the problem with ports everytime reuploads|
 
 ## INPUT
 
@@ -20,6 +24,7 @@
 ### IMU
 
 [LSM9DS1](https://github.com/sparkfun/LSM9DS1_Breakout)
+Note that the SCL port is on 19, SDA is 20 https://www.pjrc.com/teensy/td_libs_Wire.html
 
 ## OUTPUT
 
