@@ -1,10 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "microcontroller/teensy_input"
+			"path": "."
 		},
 		{
-			"path": "."
+			"path": "teensy/teensy_input",
+			"name": "teensy_input"
 		}
 	],
 	"settings": {
