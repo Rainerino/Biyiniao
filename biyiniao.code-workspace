@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "microcontroller/teensy_input"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/yiyi/.platformio/penv/bin:/home/yiyi/.platformio/penv:/home/yiyi/gcc-arm-none-eabi-7-2017-q4-major/bin:/home/yiyi/bin:/home/yiyi/.local/bin:/opt/ros/kinetic/bin:/home/yiyi/gcc-arm-none-eabi-7-2017-q4-major/bin:/home/yiyi/bin:/home/yiyi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
